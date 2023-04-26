@@ -27,27 +27,27 @@
         "name": "About Me",
         "content": "about me",
         "website": "my website",
-        "cover":"http://picsum.photos/400/400"
+        "cover":"http://picsum.photos/400/400?random=4"
     },
     {
         "id": 5,
         "name": "Counter",
         "content": "Counter React.js",
         "website": "my website",
-        "cover":"http://picsum.photos/400/400"
+        "cover":"http://picsum.photos/400/400?random=5"
     },
     {
         "id": 6,
         "name": "Timber Login",
         "content": "React Login",
         "website": "my website",
-        "cover":"http://picsum.photos/400/400"
+        "cover":"http://picsum.photos/400/400?random=6"
     },
     {
         "id": 7,
         "name": "Quiz App",
         "content": "4 questions",
         "website": "my website",
-        "cover": "http://picsum.photos/400/400"
+        "cover": "http://picsum.photos/400/400?random=7"
     }
 ]
