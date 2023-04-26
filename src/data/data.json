@@ -27,7 +27,7 @@
         "name": "About Me",
         "content": "about me",
         "website": "my website",
-        "cover":"http://picsum.photos/400/400/?random=4"
+        "cover":"http://picsum.photos/400/400?random=4"
     },
     {
         "id": 5,
@@ -41,7 +41,7 @@
         "name": "Timber Login",
         "content": "React Login",
         "website": "my website",
-        "cover":"http://picsum.photos/400/400/?random=6"
+        "cover":"http://picsum.photos/400/400?random=6"
     },
     {
         "id": 7,
