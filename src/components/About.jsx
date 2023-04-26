@@ -13,7 +13,7 @@ export default function About() {
 
                     <Col>
                     <h1>Hi I'm Meghann</h1>
-                    <p>I'm in Boca Raton</p>
+                    <p>I'm a student studying software engineering at Bocacode.</p>
                     <p> contact me : email address</p>
                     </Col>
                 </Row>

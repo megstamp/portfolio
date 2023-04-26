@@ -1,16 +1,22 @@
+import { Github } from "react-bootstrap-icons";
+
 export default function Footer() {
 
+    const gitHubUrl = "https://github.com/megstamp/portfolio";
     const currentYear = new Date().getFullYear();
-    const gitHubLink = "https://github.com/megstamp/portfolio"
 
-    return(
-        <>
-        <div><small>&copy;</small> { currentYear }
-        <br />
-        <a href={ gitHubLink } target="blank"
-        rel="noreferrer">Code in Github </a>
+    return (
+        <footer>
+            <p className="text-center">
+            <a href={gitHubUrl} 
+            target="_blank"
+            rel="noreferrer"
+            className="button-effect">
+            <Github  size="60" color="black" />
+            </a>
+            <small>&copy;{ currentYear }</small>
 
-        </div>
-        </>
+            </p>
+        <footer/>
     )
 }
