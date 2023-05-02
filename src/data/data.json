@@ -2,52 +2,52 @@
     {
         "id": 1,
         "name": "Tribute",
-        "content": "tribute to beloved",
-        "website": "my website",
-        "cover": "http://picsum.photos/400/400?random=1"
+        "content": "tribute page",
+        "website": "https://ms-rbg.web.app/",
+        "cover": "/images/RBG screenshot.png"
     },
 
     {
         "id": 2,
-        "name": "kardashev Scale",
+        "name": "Citrus Page",
         "content": "science",
-        "website": "my website",
-        "cover":"http://picsum.photos/400/400?random=2"
+        "website": "http://ms-citrus-fruit.web.app",
+        "cover":"/images/citrus.png"
     },
 
     {
         "id": 3,
-        "name": "Bluenight in Seoul",
+        "name": "Greek Time",
         "content": "clock script",
-        "website": "my website",
-        "cover":"http://picsum.photos/400/400?random=3"
+        "website": "http://clock-greece-ms.web.app/",
+        "cover":"/images/greektime.png"
     },
     {
         "id": 4,
         "name": "About Me",
         "content": "about me",
-        "website": "my website",
-        "cover":"http://picsum.photos/400/400?random=4"
+        "website": "http://about-meghann.web.app/",
+        "cover":"/images/aboutme.png"
     },
     {
         "id": 5,
         "name": "Counter",
         "content": "Counter React.js",
-        "website": "my website",
-        "cover":"http://picsum.photos/400/400?random=5"
+        "website": "http://clock-greece-ms.web.app/",
+        "cover":""
     },
     {
         "id": 6,
-        "name": "Timber Login",
+        "name": "ToDo List",
         "content": "React Login",
-        "website": "my website",
-        "cover":"http://picsum.photos/400/400?random=6"
+        "website": "https://much-todo-ms-web.web.app/",
+        "cover":"/images/todolist.png"
     },
     {
         "id": 7,
-        "name": "Quiz App",
+        "name": "Favorite TV shows",
         "content": "4 questions",
         "website": "my website",
-        "cover": "http://picsum.photos/400/400?random=7"
+        "cover": ""
     }
 ]
